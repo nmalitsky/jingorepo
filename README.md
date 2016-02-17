@@ -1,0 +1,2 @@
+# jingorepo
+jingo test
